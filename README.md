@@ -1,6 +1,6 @@
 # Single-Cell RNA-Seq Analysis of Melanoma Tumor Microenvironment  
 
-**Goal**: Replicate the pipeline from [Paper 1](https://doi.org/xxx) (JECCR, 2021) to analyze immune cell interactions and PD-1 resistance mechanisms in melanoma.  
+**Goal**: Replicate the pipeline from [Paper 1]([https://doi.org/xxx](https://doi.org/10.1038/s41467-022-34877-3) (Zhang, 2022) to analyze immune cell interactions in melanoma.  
 
 ## Key Features  
 - **Data**: [GSE123814](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE123814) (10x Genomics, 31 tumors).  
