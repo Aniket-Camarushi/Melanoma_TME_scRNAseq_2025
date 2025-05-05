@@ -1,6 +1,6 @@
 # Single-Cell RNA-Seq Analysis of Melanoma Tumor Microenvironment  
 
-**Goal**: This repository contains a complete reanalysis of the GSE215121 dataset using R and Seurat, reproducing the findings of [Zhang et al. (2022)]([https://doi.org/10.1038/s41467-022-34877-3]).
+**Goal**: This repository contains a complete reanalysis of the GSE215121 dataset using R and Seurat, reproducing the findings of [Zhang et al. (2022)](https://doi.org/10.1038/s41467-022-34877-3).
 Replicate the pipeline from (Zhang, 2022) to analyze immune cell interactions in melanoma.  
 
 ## Key Features  
