@@ -5,8 +5,7 @@
 ## Key Features  
 - **Data**: [GSE215121](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE215121)  
 - **Tools**: Seurat, CellChat, Harmony.
-- **Key Findings**:  
-  - Identified exhausted CD8+ T-cell subsets in PD-1-resistant tumors.  
+- **Key Findings**:    
   - Predicted tumor-immune crosstalk via ligand-receptor networks.  
 
 ## Project Structure
